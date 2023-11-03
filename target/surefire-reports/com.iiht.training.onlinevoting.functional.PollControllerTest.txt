@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.iiht.training.onlinevoting.functional.PollControllerTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.243 s - in com.iiht.training.onlinevoting.functional.PollControllerTest

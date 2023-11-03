@@ -1,9 +1,0 @@
-com\iiht\training\onlinevoting\boundary\BoundaryTest.class
-com\iiht\training\onlinevoting\functional\OptionControllerTest.class
-com\iiht\training\onlinevoting\functional\VoterControllerTest.class
-com\iiht\training\onlinevoting\testutils\TestUtils.class
-com\iiht\training\onlinevoting\testutils\TestResults.class
-com\iiht\training\onlinevoting\functional\AdminControllerTest.class
-com\iiht\training\onlinevoting\testutils\TestCaseResultDto.class
-com\iiht\training\onlinevoting\testutils\MasterData.class
-com\iiht\training\onlinevoting\functional\PollControllerTest.class
