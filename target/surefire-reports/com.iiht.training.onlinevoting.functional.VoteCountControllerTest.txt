@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iiht.training.onlinevoting.functional.VoteCountControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.345 s - in com.iiht.training.onlinevoting.functional.VoteCountControllerTest
